@@ -1,0 +1,14 @@
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.exe
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.deps.json
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\refint\OperadoresAtribuicao.dll
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\OperadoresAtribuicao\obj\Debug\net7.0\ref\OperadoresAtribuicao.dll
