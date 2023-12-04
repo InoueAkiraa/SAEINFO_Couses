@@ -1,0 +1,5 @@
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+C:\Users\akira\Documents\GitHub\SAEINFO_Couses\01 - Recapitulação de Lógica de Programação Usando C#\Prática\SaidaDeDados\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
